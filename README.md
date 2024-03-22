@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá, me chamo Vitor Hugo Weber Barbosa 
+<h2>Seja Bem-Vindos ao meu portfólio</h2>
 
-<!--
-**WeberBar/Weberbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Um pouco sobre mim:
 
-Here are some ideas to get you started:
+<ul>
+    <li>🎓 Estou cursando Análise e desenvolvimento de sistemas [Tecnólogo] pelo Centro Universitário FACENS </li>
+    <li>📚 Estudos focado na linguagem Java ☕</li>
+    <li>🤗Estou em busca da minha primeira oportunidade de entrar na área de desenvolvimento</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades:
+
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<hr>
+
+
+![MyLinguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=WeberBar&theme=blue-green)
+
+
+![WeberBar GitHub Stars](https://github-readme-stats.vercel.app/api?username=WeberBar&show_icons=true&theme=radical)
+<hr>
+
+<h3>Contatos</h3>
+
+<a href="https://www.linkedin.com/in/vitor-weber-65703b270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPkGPOliKTLukXr6hW6HxMg%3D%3D">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:vitorweber490@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
