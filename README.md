@@ -9,7 +9,7 @@ Um pouco sobre mim:
     <li>🤗Estou em busca da minha primeira oportunidade de entrar na área de desenvolvimento</li>
 </ul>
 
-Habilidades:
+## Habilidades:
 
 BackEnd: 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
