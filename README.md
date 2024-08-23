@@ -5,8 +5,8 @@ Um pouco sobre mim:
 
 <ul>
     <li>🎓 Estou cursando Análise e desenvolvimento de sistemas [Tecnólogo] pelo Centro Universitário FACENS </li>
-    <li>📚 Estudos focado na linguagem Java ☕</li>
-    <li>🤗Estou em busca da minha primeira oportunidade de entrar na área de desenvolvimento</li>
+    <li>📚 Estudos focado na linguagem Java ☕ e Kotlin</li>
+    <li>Disseminar o conhecimento também é aprender</li>
 </ul>
 
 ## Habilidades:
