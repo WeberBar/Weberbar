@@ -1,8 +1,13 @@
-<h1 align="center">Vitor Hugo Weber Barbosa</h1>
+<p align="center">
+  <a href="https://capsule-render.vercel.app">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=120&section=header&text=Vitor%20Hugo%20Weber%20Barbosa&fontSize=32&fontColor=ffffff&fontAlignY=40" />
+  </a>
+</p>
 
 <p align="center">
-  Desenvolvedor Backend  · Java · Spring Boot · Python · LLMs · PostgreSQL · AWS<br/>
-  São Roque, SP · MBA em Data Science & Analytics — USP/Esalq
+  <a href="https://readme-typing-svg.demolab.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1A56A0&center=true&width=500&lines=Desenvolvedor+Backend+J%C3%BAnior;Java+%7C+Spring+Boot+%7C+PostgreSQL+%7C+AWS;LLMs+%7C+MCP+%7C+TensorFlow;MBA+em+Data+Science+%E2%80%94+USP%2FEsalq" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -21,11 +26,11 @@
 
 ### Sobre mim
 
-- 🏢 Desenvolvedor Backend & Líder Técnico na **PiCode Education®** — EdTech presente em **200+ escolas** e **50 mil alunos** no Brasil
 - ☕ Foco em **Java (Spring Boot)** com experiência em Python, APIs RESTful e AWS em produção
 - 🤖 Integração de **LLMs e visão computacional** com TensorFlow; automação de processos com agentes LLM via **MCP**
-- 📚 Cursando **MBA em Data Science & Analytics** — USP/Esalq (Python para dados, visualização)
+- 📚 Cursando **MBA em Data Science & Analytics** — USP/Esalq
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — Facens
+- 📍 São Roque, SP
 
 ---
 
@@ -66,12 +71,12 @@
 
 ### Projetos
 
-**API Backend — PiCode Education®**
+**API Backend**
 > APIs para comunicação com hardware educacional e sistema de cartão de visita em eventos. Em produção para 200+ escolas e 50 mil alunos.
 > `Java` · `Spring Boot` · `PostgreSQL` · `AWS`
 
 **Classificador de Imagens Web**
-> App web para treinar classificadores de imagem no browser via webcam ou upload. Modelos exportados compatíveis com o PiCode Hub. Usa MobileNet como extrator de features.
+> App web para treinar classificadores de imagem no browser via webcam ou upload. Modelos exportados compatíveis com plataforma educacional. Usa MobileNet como extrator de features.
 > `TensorFlow.js` · `MobileNet` · `JavaScript` · `Python`
 
 ---
@@ -83,8 +88,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeberBar&layout=compact&theme=default&hide_border=true&title_color=1A56A0&text_color=555555" />
 </p>
 
----
-
 <p align="center">
-  <sub>(11) 93210-7265 · vitorweber490@gmail.com · São Roque, SP</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1A56A0&height=80&section=footer" />
 </p>
