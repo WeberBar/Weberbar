@@ -67,19 +67,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
 
-### Projetos
-
-**API Backend**
-> APIs para comunicação com hardware educacional e sistema de cartão de visita em eventos. Em produção para 200+ escolas e 50 mil alunos.
-> `Java` · `Spring Boot` · `PostgreSQL` · `AWS`
-
-**Classificador de Imagens Web**
-> App web para treinar classificadores de imagem no browser via webcam ou upload. Modelos exportados compatíveis com plataforma educacional. Usa MobileNet como extrator de features.
-> `TensorFlow.js` · `MobileNet` · `JavaScript` · `Python`
-
----
 
 ### GitHub Stats
 
