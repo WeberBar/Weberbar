@@ -32,17 +32,6 @@
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — Facens
 - 📍 São Roque, SP
 
----
-
-### Impacto real
-
-<p align="center">
-  <img src="https://img.shields.io/badge/200%2B-escolas%20atendidas-1A56A0?style=flat-square" />
-  <img src="https://img.shields.io/badge/50%20mil-alunos%20na%20plataforma-1A56A0?style=flat-square" />
-  <img src="https://img.shields.io/badge/2%20anos-em%20produ%C3%A7%C3%A3o-1A56A0?style=flat-square" />
-</p>
-
----
 
 ### Stack
 
