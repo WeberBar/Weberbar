@@ -1,46 +1,90 @@
-# Olá, me chamo Vitor Hugo Weber Barbosa 
-<h2>Seja Bem-Vindos ao meu portfólio</h2>
+<h1 align="center">Vitor Hugo Weber Barbosa</h1>
 
-Um pouco sobre mim:
+<p align="center">
+  Desenvolvedor Backend  · Java · Spring Boot · Python · LLMs · PostgreSQL · AWS<br/>
+  São Roque, SP · MBA em Data Science & Analytics — USP/Esalq
+</p>
 
-<ul>
-    <li>🎓 Estou cursando Análise e desenvolvimento de sistemas [Tecnólogo] pelo Centro Universitário FACENS </li>
-    <li>📚 Estudos focado na linguagem Java ☕ </li>
-    <li>Disseminar o conhecimento também é aprender</li>
-</ul>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vitorweber-65703b270">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:vitorweber490@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/WeberBar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-## Habilidades:
+---
 
-BackEnd: 
-![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### Sobre mim
 
-FronEnd: 
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- 🏢 Desenvolvedor Backend & Líder Técnico na **PiCode Education®** — EdTech presente em **200+ escolas** e **50 mil alunos** no Brasil
+- ☕ Foco em **Java (Spring Boot)** com experiência em Python, APIs RESTful e AWS em produção
+- 🤖 Integração de **LLMs e visão computacional** com TensorFlow; automação de processos com agentes LLM via **MCP**
+- 📚 Cursando **MBA em Data Science & Analytics** — USP/Esalq (Python para dados, visualização)
+- 🎓 Graduado em **Análise e Desenvolvimento de Sistemas** — Facens
 
-Banco de dados: 
-![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-Ferramentas: 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+### Impacto real
 
-IDE's:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/200%2B-escolas%20atendidas-1A56A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/50%20mil-alunos%20na%20plataforma-1A56A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/2%20anos-em%20produ%C3%A7%C3%A3o-1A56A0?style=flat-square" />
+</p>
 
-<hr>
+---
 
-![MyLinguagues](https://github-readme-stats.vercel.app/api/top-langs/?username=WeberBar&theme=blue-green)
+### Stack
 
+**Backend**
 
-![WeberBar GitHub Stars](https://github-readme-stats.vercel.app/api?username=WeberBar&show_icons=true&theme=radical)
-<hr>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<h3>Contatos</h3>
+**IA & Dados**
 
-<a href="https://www.linkedin.com/in/vitor-weber-65703b270?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BPkGPOliKTLukXr6hW6HxMg%3D%3D">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:vitorweber490@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### Projetos
+
+**API Backend — PiCode Education®**
+> APIs para comunicação com hardware educacional e sistema de cartão de visita em eventos. Em produção para 200+ escolas e 50 mil alunos.
+> `Java` · `Spring Boot` · `PostgreSQL` · `AWS`
+
+**Classificador de Imagens Web**
+> App web para treinar classificadores de imagem no browser via webcam ou upload. Modelos exportados compatíveis com o PiCode Hub. Usa MobileNet como extrator de features.
+> `TensorFlow.js` · `MobileNet` · `JavaScript` · `Python`
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WeberBar&show_icons=true&theme=default&hide_border=true&title_color=1A56A0&icon_color=1A56A0&text_color=555555" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeberBar&layout=compact&theme=default&hide_border=true&title_color=1A56A0&text_color=555555" />
+</p>
+
+---
+
+<p align="center">
+  <sub>(11) 93210-7265 · vitorweber490@gmail.com · São Roque, SP</sub>
+</p>
